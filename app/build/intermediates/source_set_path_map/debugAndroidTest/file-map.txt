@@ -1,0 +1,5 @@
+org.tensorflow.lite.examples.posenet.test.app-androidTest-0 C:\Users\Samet\Desktop\examples-master\examples-master\lite\examples\posenet\android\app\build\generated\res\resValues\androidTest\debug
+org.tensorflow.lite.examples.posenet.test.app-androidTest-1 C:\Users\Samet\Desktop\examples-master\examples-master\lite\examples\posenet\android\app\build\generated\res\rs\androidTest\debug
+org.tensorflow.lite.examples.posenet.test.app-mergeDebugAndroidTestResources-2 C:\Users\Samet\Desktop\examples-master\examples-master\lite\examples\posenet\android\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+org.tensorflow.lite.examples.posenet.test.app-mergeDebugAndroidTestResources-3 C:\Users\Samet\Desktop\examples-master\examples-master\lite\examples\posenet\android\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+org.tensorflow.lite.examples.posenet.test.app-merged_res-4 C:\Users\Samet\Desktop\examples-master\examples-master\lite\examples\posenet\android\app\build\intermediates\merged_res\debugAndroidTest

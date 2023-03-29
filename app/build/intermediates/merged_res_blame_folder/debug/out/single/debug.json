@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-merged_res-9:\\mipmap-mdpi_ic_action_info.png.flat",
+        "source": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-main-11:\\mipmap-mdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-merged_res-9:\\drawable-xxhdpi_icn_chevron_up.png.flat",
+        "source": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-main-11:\\drawable-xxhdpi\\icn_chevron_up.png"
+    },
+    {
+        "merged": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-merged_res-9:\\drawable_action.png.flat",
+        "source": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-main-11:\\drawable\\action.png"
+    },
+    {
+        "merged": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-merged_res-9:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-main-11:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-merged_res-9:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-main-11:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-merged_res-9:\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-main-11:\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-merged_res-9:\\drawable-xxhdpi_icn_chevron_down.png.flat",
+        "source": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-main-11:\\drawable-xxhdpi\\icn_chevron_down.png"
+    },
+    {
+        "merged": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-merged_res-9:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-main-11:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-merged_res-9:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-pngs-4:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-merged_res-9:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-main-11:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-merged_res-9:\\layout_tfe_pn_activity_camera.xml.flat",
+        "source": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-main-11:\\layout\\tfe_pn_activity_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-merged_res-9:\\mipmap-hdpi_ic_action_info.png.flat",
+        "source": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-main-11:\\mipmap-hdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-merged_res-9:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-main-11:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-merged_res-9:\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-main-11:\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-merged_res-9:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-main-11:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-merged_res-9:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-main-11:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-merged_res-9:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-main-11:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-merged_res-9:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-main-11:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-merged_res-9:\\drawable-xxhdpi_tfl2_logo.png.flat",
+        "source": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-main-11:\\drawable-xxhdpi\\tfl2_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-merged_res-9:\\mipmap-xhdpi_ic_action_info.png.flat",
+        "source": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-main-11:\\mipmap-xhdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-merged_res-9:\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-main-11:\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-merged_res-9:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-main-11:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-merged_res-9:\\drawable-xxhdpi_tfl2_logo_dark.png.flat",
+        "source": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-main-11:\\drawable-xxhdpi\\tfl2_logo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-merged_res-9:\\layout_tfe_pn_activity_posenet.xml.flat",
+        "source": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-main-11:\\layout\\tfe_pn_activity_posenet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-merged_res-9:\\mipmap-xxhdpi_ic_action_info.png.flat",
+        "source": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-main-11:\\mipmap-xxhdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-merged_res-9:\\drawable_image.jpg.flat",
+        "source": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-main-11:\\drawable\\image.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-merged_res-9:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-main-11:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-merged_res-9:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-main-11:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-merged_res-9:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-main-11:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-merged_res-9:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-main-11:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-merged_res-9:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-main-11:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-merged_res-9:\\layout_tfe_pn_activity_test.xml.flat",
+        "source": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-main-11:\\layout\\tfe_pn_activity_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-merged_res-9:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-main-11:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-merged_res-9:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-main-11:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.posenet.app-merged_res-9:/layout_tfe_pn_activity_camera.xml.flat",
+        "source": "org.tensorflow.lite.examples.posenet.app-main-11:/layout/tfe_pn_activity_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-merged_res-9:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Samet\\.gradle\\daemon\\7.6\\org.tensorflow.lite.examples.posenet.app-main-11:\\mipmap-mdpi\\ic_launcher_round.png"
+    }
+]
